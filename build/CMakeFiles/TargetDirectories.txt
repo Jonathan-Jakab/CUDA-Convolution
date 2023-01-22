@@ -1,0 +1,4 @@
+C:/Users/Jonny Apple Seed/Desktop/Homework/CSC 163/Labs/A2/build/CMakeFiles/wb.dir
+C:/Users/Jonny Apple Seed/Desktop/Homework/CSC 163/Labs/A2/build/CMakeFiles/Convolution_Template.dir
+C:/Users/Jonny Apple Seed/Desktop/Homework/CSC 163/Labs/A2/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/Jonny Apple Seed/Desktop/Homework/CSC 163/Labs/A2/build/CMakeFiles/ZERO_CHECK.dir
