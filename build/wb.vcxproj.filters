@@ -1,0 +1,67 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\Jonny Apple Seed\Desktop\Homework\CSC 163\Labs\A2\source\libwb\wbArg.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Jonny Apple Seed\Desktop\Homework\CSC 163\Labs\A2\source\libwb\wbCUDA.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Jonny Apple Seed\Desktop\Homework\CSC 163\Labs\A2\source\libwb\wbDataset.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Jonny Apple Seed\Desktop\Homework\CSC 163\Labs\A2\source\libwb\wbDirectory.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Jonny Apple Seed\Desktop\Homework\CSC 163\Labs\A2\source\libwb\wbExit.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Jonny Apple Seed\Desktop\Homework\CSC 163\Labs\A2\source\libwb\wbExport.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Jonny Apple Seed\Desktop\Homework\CSC 163\Labs\A2\source\libwb\wbFile.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Jonny Apple Seed\Desktop\Homework\CSC 163\Labs\A2\source\libwb\wbImage.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Jonny Apple Seed\Desktop\Homework\CSC 163\Labs\A2\source\libwb\wbImport.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Jonny Apple Seed\Desktop\Homework\CSC 163\Labs\A2\source\libwb\wbInit.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Jonny Apple Seed\Desktop\Homework\CSC 163\Labs\A2\source\libwb\wbLogger.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Jonny Apple Seed\Desktop\Homework\CSC 163\Labs\A2\source\libwb\wbMPI.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Jonny Apple Seed\Desktop\Homework\CSC 163\Labs\A2\source\libwb\wbPPM.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Jonny Apple Seed\Desktop\Homework\CSC 163\Labs\A2\source\libwb\wbPath.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Jonny Apple Seed\Desktop\Homework\CSC 163\Labs\A2\source\libwb\wbSolution.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Jonny Apple Seed\Desktop\Homework\CSC 163\Labs\A2\source\libwb\wbSparse.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Jonny Apple Seed\Desktop\Homework\CSC 163\Labs\A2\source\libwb\wbTimer.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Jonny Apple Seed\Desktop\Homework\CSC 163\Labs\A2\source\libwb\vendor\json11.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\Jonny Apple Seed\Desktop\Homework\CSC 163\Labs\A2\source\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{BA1308B4-D698-3F23-AADC-EFF97D9098BE}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

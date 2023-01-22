@@ -1,0 +1,8 @@
+﻿  Building NVCC (Device) object CMakeFiles/Convolution_Template.dir/Convolution/Debug/Convolution_Template_generated_template.cu.obj
+  template.cu
+C:\Users\Jonny Apple Seed\Desktop\Homework\CSC 163\Labs\A2\source\Convolution\template.cu(76): warning C4002: too many arguments for function-like macro invocation 'clamp'
+C:\Users\Jonny Apple Seed\Desktop\Homework\CSC 163\Labs\A2\source\Convolution\template.cu(76): warning C4002: too many arguments for function-like macro invocation 'clamp'
+C:\Users\Jonny Apple Seed\Desktop\Homework\CSC 163\Labs\A2\source\Convolution\template.cu(76): warning C4002: too many arguments for function-like macro invocation 'clamp'
+C:\Users\Jonny Apple Seed\Desktop\Homework\CSC 163\Labs\A2\source\Convolution\template.cu(76): warning C4002: too many arguments for function-like macro invocation 'clamp'
+  template.cu
+  Convolution_Template.vcxproj -> C:\Users\Jonny Apple Seed\Desktop\Homework\CSC 163\Labs\A2\build\Debug\Convolution_Template.exe

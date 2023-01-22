@@ -1,0 +1,10 @@
+^C:\USERS\JONNY APPLE SEED\DESKTOP\HOMEWORK\CSC 163\LABS\A2\BUILD\CMAKEFILES\061FB031C2FB8CB6BD1972C7ECD7A6E0\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" "-SC:/Users/Jonny Apple Seed/Desktop/Homework/CSC 163/Labs/A2/source" "-BC:/Users/Jonny Apple Seed/Desktop/Homework/CSC 163/Labs/A2/build" --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file "C:/Users/Jonny Apple Seed/Desktop/Homework/CSC 163/Labs/A2/build/a2.sln"
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">
+    <LocalDebuggerCommandArguments>-e .\Convolution\Dataset\0\output.ppm -i .\Convolution\Dataset\0\input0.ppm,.\Convolution\Dataset\0\input1.raw -o .\Convolution\Dataset\0\myoutput.ppm -t image &gt; .\Convolution\Dataset\0\result.txt</LocalDebuggerCommandArguments>
+    <DebuggerFlavor>WindowsLocalDebugger</DebuggerFlavor>
+  </PropertyGroup>
+</Project>
